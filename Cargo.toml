@@ -1,0 +1,7 @@
+[package]
+name = "metacrate"
+version = "0.1.0"
+authors = ["Anthony Wilcox", "Kevin B. Knapp"]
+edition = "2018"
+
+[dependencies]
